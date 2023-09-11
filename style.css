@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    background-color: rgb(27, 160, 175);
+    font-family: Arial, 
+   }
+
+
+#boton {
+    background-color: rgb(82, 193, 13);
+    border: black solid;
+    padding: 10px 20px;
+  border-radius: 5px;
+   cursor: pointer;
+    font-size: 15px; 
+}
